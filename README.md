@@ -14,6 +14,7 @@
 ## 프로젝트 프로그램 설치방법
 * yolo 설치 방법
 * 파이썬, Colab, Jupyter
+![image](https://github.com/user-attachments/assets/b2899439-6b87-4dac-bb8b-e948446d4a09)
 
   
 ## 프로젝트 프로그램 사용법
